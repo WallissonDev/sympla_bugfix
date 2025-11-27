@@ -1,0 +1,1 @@
+Script em Python que fiz pra automatizar o fechamento de um processo e reabri-lo em seguida pra corrigir bugs comuns através da reinicialização do processo e abertura dos softwares necessários para funcionamento da Bilheteria.
